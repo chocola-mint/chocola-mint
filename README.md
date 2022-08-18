@@ -22,4 +22,5 @@ You can see the games I've worked on in [my Itch page](https://chocola-mint.itch
 - Graphics programming
 - HCI (Human-Computer Interface)
 - Virtual Reality / Mixed Reality
+- Procedural Content Generation
 - Programming / Game Education
