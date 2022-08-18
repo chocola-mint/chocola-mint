@@ -1,7 +1,13 @@
-### Who am I?
+### :video_game: Who am I?
 Someone who wants to live a thrilling, unstable life making games. I'm also trying to branch into digital illustrations and composing, but that's not what you're here for, right?
 
-### Technical abilities
+### :space_invader: Games 
+You can see the games I've worked on in [my Itch page](https://chocola-mint.itch.io/). Current recommendations are: (All can be played in your browser)
+* [Touhou Tiny Trouble](https://chocola-mint.itch.io/touhou-tiny-trouble) - A short, lovely Touhou-themed platformer reminiscent of Kirby Super Star.
+* [Operation: Stardust](https://chocola-mint.itch.io/operation-stardust) - An eldritch-themed strategy game reminiscent of Advance Wars.
+* [Lucid Dive](https://chocola-mint.itch.io/lucid-dive) - A challenging platformer where you sling around with a grapple in a digital metropolis.
+
+### :computer: Technical abilities
 - C: The language that formally introduced me to programming. I know how to wrangle raw pointers, implement the usual algorithms taught in university, and can do a little bit of embedded programming (Arduino).
 - C++: The language that introduced me to object-oriented programming. I've also done some OpenGL graphics programming in it before. My biggest C++ project so far is a Qt GUI project, so that probably is saying something about my C++ abilities. Looking to change that with an Unreal project someday.
 - Python: The first scripting language I learned. I don't really have Python projects, but I've written Python scripts a lot as a more maintainable shell script, boosting my productivity.
@@ -11,7 +17,7 @@ Someone who wants to live a thrilling, unstable life making games. I'm also tryi
 - Java: A language I learned after learning C#. (C# is really just Microsoft Java, eh?) I've written multithreaded Java for a Database Systems course.
 - Verilog/SystemVerilog: I hope I won't ever have to write these again...
 
-### Fields of Interest
+### :mortar_board: Fields of Interest
 - Game programming & development (And a little bit of engine stuff)
 - Graphics programming
 - HCI (Human-Computer Interface)
