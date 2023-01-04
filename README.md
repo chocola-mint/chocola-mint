@@ -2,10 +2,11 @@
 Someone who wants to live a thrilling, unstable life making games. I'm also trying to branch into digital illustrations and composing, but that's not what you're here for, right?
 
 ### :space_invader: Games 
-You can see the games I've worked on in [my Itch page](https://chocola-mint.itch.io/). Current recommendations are: (All can be played in your browser)
+You can see the games I've worked on in [my Itch page](https://chocola-mint.itch.io/), as well as a demo reel if you're in a hurry. Current recommendations are: (All can be played in your browser)
 * [Touhou Tiny Trouble](https://chocola-mint.itch.io/touhou-tiny-trouble) - A short, lovely Touhou-themed platformer reminiscent of Kirby Super Star.
 * [Operation: Stardust](https://chocola-mint.itch.io/operation-stardust) - An eldritch-themed strategy game reminiscent of Advance Wars.
 * [Lucid Dive](https://chocola-mint.itch.io/lucid-dive) - A challenging platformer where you sling around with a grapple in a digital metropolis.
+* [Sorting Battle](https://chocola-mint.itch.io/sorting-battle) - An open-source fast-paced competitive puzzle game about sorting numbers on a grid. Powered by reinforcement learning! You can also get its source code [from my GitHub repository](https://github.com/chocola-mint/Sorting-Battle).
 
 ### :computer: Technical abilities
 - C: The language that formally introduced me to programming. I know how to wrangle raw pointers, implement the usual algorithms taught in university, and can do a little bit of embedded programming (Arduino).
