@@ -10,7 +10,7 @@ You can see the games I've worked on in [my Itch page](https://chocola-mint.itch
 
 ### :computer: Technical abilities
 - C: The language that formally introduced me to programming. I know how to wrangle raw pointers, implement the usual algorithms taught in university, and can do a little bit of embedded programming (Arduino).
-- C++: The language that introduced me to object-oriented programming. I've also done some OpenGL graphics programming in it before. My biggest C++ project so far is a Qt GUI project, so that probably is saying something about my C++ abilities. Looking to change that with an Unreal project someday.
+- C++: The language that introduced me to object-oriented programming. I've also done some OpenGL graphics programming in it before. My biggest C++ project so far is a Qt GUI project, so that probably is saying something about my C++ abilities. I've also done some Unreal-related stuff in private, but nothing worth releasing at the moment.
 - Python: The first scripting language I learned. I don't really have Python projects, but I've written Python scripts a lot as a more maintainable shell script, boosting my productivity.
 - JavaScript: I know how to use anonymous functions and async, so I'd say I know a lot about the language itself.
 - Cocos Creator (TypeScript): I used it to make the game [Operation: Stardust](https://chocola-mint.itch.io/operation-stardust).
