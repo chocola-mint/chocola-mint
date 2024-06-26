@@ -1,5 +1,7 @@
 ### :video_game: Who am I?
-Someone who wants to live a thrilling, unstable life making games. I'm also trying to branch into digital illustrations and composing, but that's not what you're here for, right?
+Game programmer based in Japan.
+
+I'm also trying to branch into digital illustrations and composing, but that's not what you're here for, right?
 
 ### :space_invader: Games 
 You can see the games I've worked on in [my Itch page](https://chocola-mint.itch.io/), as well as a demo reel if you're in a hurry. Current recommendations are: (All can be played in your browser)
